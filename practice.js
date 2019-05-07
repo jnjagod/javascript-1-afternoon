@@ -123,7 +123,7 @@ function faveColorFinder(color){
   } else if(color === 'green'){
     return 'green is a solid favorite color';
   } else if(color === 'black'){
-    return 'black is so trendy';
+    return 'so trendy';
   } else {
     return 'you need to evaluate your favorite color choice'
   }
@@ -166,13 +166,13 @@ let pondScope = ["duck", "realDuck"];
 
 //Create a variable called age with your age assigned to you
 
-var age = 32
+var age = 32;
 
 // FLASH FORWARD TO NEXT YEAR
 // reassign the value of age to be one greater than it was, because, we all get older
 
-var age += 1
+
 
 // Good news! We can live forever. Set your age to 999
 
-var age = 999
+var age = 999;
